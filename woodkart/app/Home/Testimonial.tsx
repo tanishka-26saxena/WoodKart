@@ -23,7 +23,7 @@ const testimonials: Testimonial[] = [
     rating: 5,
     videoThumb: "./src/ph.jpg",
     excerpt: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua lorem ipsum lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua lorem ipsum "  },
-,
+
   {
     name: "lorem ipsum dolor",
     city: "lorem ipsum",
